@@ -32,9 +32,16 @@ The HR Data Analysis project is a detailed exploration of a sample dataset from 
 
 </br>
 
+Questions answer with this dashboard
+
+1. What the distribution of employees gender in the company? Is the mayority US Citizens?
+
+2. What are the most common Recruitment Sources? Has the employee hiring rate decrease over the years?
+
+3. Whats the employee race etnicity in the company? How many groups exist?
+
+
 ## 🛠 Built With <a name="built-with"></a>
-
-
 
 <details>
   <summary>Tech Stack</summary>
