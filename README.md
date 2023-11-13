@@ -26,7 +26,7 @@
 
 # 📖 HR Data Analysis <a name="about-project"></a>
 
-The HR Data Analysis project is a detailed exploration of a sample dataset from an anonymous HR company. Utilizing Power BI, the study uncovers valuable insights, metrics related to the company's recruitment process and employee performance. This comprehensive analysis also showcases my expertise as a data analyst. Through this project, I demonstrate my skills in data extraction, cleansing, modeling, and visualization, illuminating key aspects of HR operations.
+The HR Data Analysis project is a detailed exploration of a sample dataset from an anonymous HR company. Utilizing Power BI, the study uncovers valuable insights, and metrics related to the company's recruitment process and employee performance. This comprehensive analysis also showcases my expertise as a data analyst. Through this project, I demonstrate my skills in data extraction, cleansing, modeling, and visualization, illuminating key aspects of HR operations.
 
 <img src="./hr-dashboard.png" alt="Chart" />
 
